@@ -1,0 +1,780 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 881,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "iJSuTkFlpyIC",
+      "etag": "maWnMWAcxWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iJSuTkFlpyIC",
+      "volumeInfo": {
+        "title": "Animals and Women",
+        "subtitle": "Feminist Theoretical Explorations",
+        "authors": [
+          "Carol J. Adams",
+          "Josephine Donovan"
+        ],
+        "publisher": "Duke University Press",
+        "publishedDate": "1995-11-14",
+        "description": "Animals and Women is a collection of pioneering essays that explores the theoretical connections between feminism and animal defense. Offering a feminist perspective on the status of animals, this unique volume argues persuasively that both the social construction and oppressions of women are inextricably connected to the ways in which we comprehend and abuse other species. Furthermore, it demonstrates that such a focus does not distract from the struggle for women’s rights, but rather contributes to it. This wide-ranging multidisciplinary anthology presents original material from scholars in a variety of fields, as well as a rare, early article by Virginia Woolf. Exploring the leading edge of the species/gender boundary, it addresses such issues as the relationship between abortion rights and animal rights, the connection between woman-battering and animal abuse, and the speciesist basis for much sexist language. Also considered are the ways in which animals have been regarded by science, literature, and the environmentalist movement. A striking meditation on women and wolves is presented, as is an examination of sexual harassment and the taxonomy of hunters and hunting. Finally, this compelling collection suggests that the subordination and degradation of women is a prototype for other forms of abuse, and that to deny this connection is to participate in the continued mistreatment of animals and women.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0822316676"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780822316671"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "categories": [
+          "Nature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iJSuTkFlpyIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iJSuTkFlpyIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=iJSuTkFlpyIC&pg=PA5&dq=animals&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=iJSuTkFlpyIC&dq=animals&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animals_and_Women.html?hl=&id=iJSuTkFlpyIC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Animals_and_Women-sample-epub.acsm?id=iJSuTkFlpyIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iJSuTkFlpyIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "who batter , while Marian Scholtmeijer strives to unite the interests and powers of women and nonhuman \u003cb\u003eanimals\u003c/b\u003e by seeking , in works of fiction , interspecies terms of resistance to dominant ideological constructions ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2V1tHqi4hLEC",
+      "etag": "ymxsqgs8d+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2V1tHqi4hLEC",
+      "volumeInfo": {
+        "title": "The Encyclopedia of Animals",
+        "subtitle": "A Complete Visual Guide",
+        "publisher": "Univ of California Press",
+        "publishedDate": "2004",
+        "description": "This lavishly illustrated trade reference to mammals, birds, reptiles, amphibians, fishes, and invertebrates features hundreds of glorious photos, masterful illustrations, and informative maps.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780520244061"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0520244060"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 619,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 16,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2V1tHqi4hLEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2V1tHqi4hLEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=2V1tHqi4hLEC&printsec=frontcover&dq=animals&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=2V1tHqi4hLEC&dq=animals&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Encyclopedia_of_Animals.html?hl=&id=2V1tHqi4hLEC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Encyclopedia_of_Animals-sample-pdf.acsm?id=2V1tHqi4hLEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2V1tHqi4hLEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This lavishly illustrated trade reference to mammals, birds, reptiles, amphibians, fishes, and invertebrates features hundreds of glorious photos, masterful illustrations, and informative maps."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oXCYDwAAQBAJ",
+      "etag": "7UJQpzo4+yY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oXCYDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lives of Animals",
+        "authors": [
+          "J. M. Coetzee"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2016-10-04",
+        "description": "The idea of human cruelty to animals so consumes novelist Elizabeth Costello in her later years that she can no longer look another person in the eye: humans, especially meat-eating ones, seem to her to be conspirators in a crime of stupefying magnitude taking place on farms and in slaughterhouses, factories, and laboratories across the world. Costello's son, a physics professor, admires her literary achievements, but dreads his mother’s lecturing on animal rights at the college where he teaches. His colleagues resist her argument that human reason is overrated and that the inability to reason does not diminish the value of life; his wife denounces his mother’s vegetarianism as a form of moral superiority. At the dinner that follows her first lecture, the guests confront Costello with a range of sympathetic and skeptical reactions to issues of animal rights, touching on broad philosophical, anthropological, and religious perspectives. Painfully for her son, Elizabeth Costello seems offensive and flaky, but—dare he admit it?—strangely on target. In this landmark book, Nobel Prize–winning writer J. M. Coetzee uses fiction to present a powerfully moving discussion of animal rights in all their complexity. He draws us into Elizabeth Costello’s own sense of mortality, her compassion for animals, and her alienation from humans, even from her own family. In his fable, presented as a Tanner Lecture sponsored by the University Center for Human Values at Princeton University, Coetzee immerses us in a drama reflecting the real-life situation at hand: a writer delivering a lecture on an emotionally charged issue at a prestigious university. Literature, philosophy, performance, and deep human conviction—Coetzee brings all these elements into play. As in the story of Elizabeth Costello, the Tanner Lecture is followed by responses treating the reader to a variety of perspectives, delivered by leading thinkers in different fields. Coetzee’s text is accompanied by an introduction by political philosopher Amy Gutmann and responsive essays by religion scholar Wendy Doniger, primatologist Barbara Smuts, literary theorist Marjorie Garber, and moral philosopher Peter Singer, author of Animal Liberation. Together the lecture-fable and the essays explore the palpable social consequences of uncompromising moral conflict and confrontation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691173900"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691173907"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 133,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oXCYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oXCYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=oXCYDwAAQBAJ&printsec=frontcover&dq=animals&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=oXCYDwAAQBAJ&dq=animals&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lives_of_Animals.html?hl=&id=oXCYDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Lives_of_Animals-sample-pdf.acsm?id=oXCYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oXCYDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this landmark book, Nobel Prize–winning writer J. M. Coetzee uses fiction to present a powerfully moving discussion of animal rights in all their complexity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T2GzCimS2XUC",
+      "etag": "Yl1PVI0gI+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T2GzCimS2XUC",
+      "volumeInfo": {
+        "title": "Squid as Experimental Animals",
+        "authors": [
+          "W.J., Jr. Adelman",
+          "D.L. Gilbert",
+          "William J. Adelman",
+          "J.M. Arnold"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "1990-04-30",
+        "description": "A greatly expanded revision of the Woods Hole standard of 1974, A guide to the laboratory use of the squid... The original eight lab manual chapters are supplemented by eight that serve as an introduction to squid biology. Subjects include natural history and husbandry, mating and embryology, neural membranes, cell biology, sensory systems, the squid's unique detoxifying enzyme. Physiology of the CNS, digestion and excretion are excluded. Annotation copyrighted by Book News, Inc., Portland, OR",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0306435136"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780306435133"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T2GzCimS2XUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T2GzCimS2XUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=T2GzCimS2XUC&pg=PA421&dq=animals&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=T2GzCimS2XUC&dq=animals&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Squid_as_Experimental_Animals.html?hl=&id=T2GzCimS2XUC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Squid_as_Experimental_Animals-sample-epub.acsm?id=T2GzCimS2XUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Squid_as_Experimental_Animals-sample-pdf.acsm?id=T2GzCimS2XUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T2GzCimS2XUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Any such swift - moving \u003cb\u003eanimal\u003c/b\u003e requires sensory devices for proper spatial No wonder then that cephalopods during the course of evolution and probably in competition with fish ( Packard , 1972 ) - developed sophisticated sense organs&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dwq8BwAAQBAJ",
+      "etag": "l61Ax1sWjPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dwq8BwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Others",
+        "subtitle": "How Animals Made Us Human",
+        "authors": [
+          "Paul Shepard"
+        ],
+        "publisher": "Island Press",
+        "publishedDate": "1997-03",
+        "description": "Shepard shows how the human relationship with animals has altered over time: as we have prospered, they have vanished.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781559634342"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1559634340"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Nature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dwq8BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dwq8BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=dwq8BwAAQBAJ&printsec=frontcover&dq=animals&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=dwq8BwAAQBAJ&dq=animals&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Others.html?hl=&id=dwq8BwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dwq8BwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shepard shows how the human relationship with animals has altered over time: as we have prospered, they have vanished."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6IdeEAAAQBAJ",
+      "etag": "YbqFgMVyiGI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6IdeEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Animals",
+        "authors": [
+          "Harriet Brundle"
+        ],
+        "publisher": "Gareth Stevens Publishing LLLP",
+        "publishedDate": "2021-12-15",
+        "description": "There isn’t a better introduction to animals for young readers than this book! Friendly illustrations are paired with simple text to outline the main groups of animals readers will encounter in science class and the world around them: reptiles, mammals, birds, fish, and even invertebrates. Vocabulary terms important to the discussion of animals is highlighted in text and in the glossary. Cute bears, frogs, and fish will draw in the newest readers while the main content teaches the features of the basic animal groups through achievable language and information.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781538270837"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1538270838"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6IdeEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6IdeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=6IdeEAAAQBAJ&pg=PT24&dq=animals&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=6IdeEAAAQBAJ&dq=animals&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animals.html?hl=&id=6IdeEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Animals-sample-epub.acsm?id=6IdeEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Animals-sample-pdf.acsm?id=6IdeEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6IdeEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "attract camou age cold-blooded habitats mammary glands migrate shed to get the attention of traits that allow an \u003cb\u003eanimal\u003c/b\u003e to hide itself in a habitat \u003cb\u003eanimals\u003c/b\u003e that have blood that changes with the temperature around them the natural homes&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vCelCwAAQBAJ",
+      "etag": "mNALRUMTp9s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vCelCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Moral Rights of Animals",
+        "authors": [
+          "Mylan Engel Jr.",
+          "Gary Lynn Comstock"
+        ],
+        "publisher": "Lexington Books",
+        "publishedDate": "2016-03-16",
+        "description": "Edited by Mylan Engel Jr. and Gary Lynn Comstock, this book employs different ethical lenses, including classical deontology, libertarianism, commonsense morality, virtue ethics, utilitarianism, and the capabilities approach, to explore the philosophical basis for the strong animal rights view, which holds that animals have moral rights equal in strength to the rights of humans, while also addressing what are undoubtedly the most serious challenges to the strong animal rights stance, including the challenges posed by rights nihilism, the “kind” argument against animal rights, the problem of predation, and the comparative value of lives. In addition, contributors explore the practical import of animal rights both from a social policy standpoint and from the standpoint of personal ethical decisions concerning what to eat and whether to hunt animals. Unlike other volumes on animal rights, which focus primarily on the legal rights of animals, and unlike other anthologies on animal ethics, which tend to cover a wide variety of topics but only devote a few articles to each topic, this volume focuses exclusively on the question of whether animals have moral rights and the practical import of such rights. The Moral Rights of Animals will be an indispensable resource for scholars, teachers, and students in the fields of animal ethics, applied ethics, ethical theory, and human-animal studies, as well as animal rights advocates and policy makers interested in improving the treatment of animals.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781498531917"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1498531911"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vCelCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vCelCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=vCelCwAAQBAJ&pg=PA283&dq=animals&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=vCelCwAAQBAJ&dq=animals&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moral_Rights_of_Animals.html?hl=&id=vCelCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Moral_Rights_of_Animals-sample-epub.acsm?id=vCelCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Moral_Rights_of_Animals-sample-pdf.acsm?id=vCelCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vCelCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "See rights view, amended Anderson, Elizabeth, 22, 35n12 \u003cb\u003eanimal\u003c/b\u003e agriculture, xiii, 3, 4, 13, 54, 57, 60,213, 214, 244, 245. See also \u003cb\u003eanimals\u003c/b\u003e, farmed; \u003cb\u003eanimals\u003c/b\u003e, used for food; factory farms/factory farming \u003cb\u003eanimal\u003c/b\u003e ethics, ix, xi, xxi, 41,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1xLGDQAAQBAJ",
+      "etag": "o/SUvQbn0/A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1xLGDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Humans and Animals: A Geography of Coexistence",
+        "subtitle": "A Geography of Coexistence",
+        "authors": [
+          "Julie Urbanik",
+          "Connie L. Johnston"
+        ],
+        "publisher": "ABC-CLIO",
+        "publishedDate": "2017-01-26",
+        "description": "An engaging and at times sobering look at the coexistence of humans and animals in the 21st century and how their sometimes disparate needs affect environments, politics, economies, and culture worldwide. • Includes excerpts from 20 primary source documents related to animals • Offers a comprehensive look at a variety of aspects of human-animal relationships • Discusses how human actions affect the survival of other species, such as the northern spotted owl and bluefin tuna",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781440838354"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1440838356"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+          "Nature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1xLGDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1xLGDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=1xLGDQAAQBAJ&pg=PA185&dq=animals&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1xLGDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1xLGDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 102.46,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 71.72,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1xLGDQAAQBAJ&rdid=book-1xLGDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 102460000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 71720000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Humans_and_Animals_A_Geography_of_Coexis-sample-epub.acsm?id=1xLGDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Humans_and_Animals_A_Geography_of_Coexis-sample-pdf.acsm?id=1xLGDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1xLGDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Human-\u003cb\u003eAnimal\u003c/b\u003e Studies (HAS), or \u003cb\u003eAnimal\u003c/b\u003e Studies in the Humanities, is the umbrella category for all scholarly work that examines the spectrum of relations between humans and other species from social science (history, geography,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "279nAgAAQBAJ",
+      "etag": "5CcMfeOuYEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/279nAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Animals and War",
+        "subtitle": "Confronting the Military-Animal Industrial Complex",
+        "authors": [
+          "Anthony J. Nocella II",
+          "Colin Salter",
+          "Judy K. C. Bentley"
+        ],
+        "publisher": "Lexington Books",
+        "publishedDate": "2013-12-19",
+        "description": "Animals and War: Confronting the Military-Animal Industrial Complex is the first book to examine how nonhuman animals are used for war by military forces. Each chapter delves deeply into modes of nonhuman animal exploitation: as weapons, test subjects, and transportation, and as casualties of war leading to homelessness, starvation, and death. With leading scholar-activists writing each chapter, this is an important text in the fields of peace studies and critical animal studies. This is a must read for anyone interested in ending war and fostering peace and justice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780739186527"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0739186523"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=279nAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=279nAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=279nAgAAQBAJ&pg=PA70&dq=animals&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=279nAgAAQBAJ&dq=animals&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animals_and_War.html?hl=&id=279nAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Animals_and_War-sample-epub.acsm?id=279nAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Animals_and_War-sample-pdf.acsm?id=279nAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=279nAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Confronting the Military-\u003cb\u003eAnimal\u003c/b\u003e Industrial Complex Anthony J. Nocella II, Colin Salter, Judy K. C. Bentley ... At the same time, however, camels could be excellent nonhuman fighting \u003cb\u003eanimals\u003c/b\u003e, capable of reacting offensively by charging&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UuFQAAAAYAAJ",
+      "etag": "SR6GOyVLVmI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UuFQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Code of Federal Regulations ... Title 9: Animals and Animal Products",
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924105697928"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "categories": [
+          "Domestic animals"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UuFQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UuFQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=UuFQAAAAYAAJ&pg=PA489&dq=animals&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UuFQAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UuFQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=UuFQAAAAYAAJ&rdid=book-UuFQAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.nl/books/download/Code_of_Federal_Regulations_Title_9_Anim.epub?id=UuFQAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UuFQAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "approved as humane methods of slaugh- when properly positioned and activated , tering and handling of such \u003cb\u003eanimals\u003c/b\u003e immediate unconsciousness is produced . under the act . ( i ) To assure uniform unconscious( a ) Application of stunners&nbsp;..."
+      }
+    }
+  ]
+}
